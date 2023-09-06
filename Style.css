@@ -1,0 +1,112 @@
+ header nav ul {
+  display: flex;
+  justify-content: space-around;
+ }
+ 
+ header nav ul li a:hover {
+  text-decoration: underline;
+ }
+
+ @import url("https://cdn.jsdelivr.net/gh/jgthms/minireset.css@master/minireset.min.css");
+ 
+p
+{
+    color: hotpink;
+     font-size: 16px;
+     font-style: italic;
+     font-weight: 300;
+     letter-spacing: 2px;
+     line-height: 1.5;
+     text-align: center;
+     text-decoration: underline;
+     text-transform: uppercase;
+     word-spacing: 15px;}
+
+header{margin: 0 auto; padding: 5px 0 5px 10px;}
+li{display: inline;}
+span{display: block;}
+header{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.projects
+.site-titile {font-weight: bold;}
+#masthead {color: darkmagenta;}
+
+.site-titile.home-title{font-site: 32px;}
+input[type="text"],
+input[type="search"]} 
+
+      
+      button {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        border: 3px solid lightgray;
+        cursor: pointer;
+      }
+      
+      button:hover {
+        background-color: lightgray;
+      }
+      
+      i {
+        font-size: 40px;
+      }
+      
+      span {
+        display: inline-block;
+        width: 30px;
+        line-height: 30px;
+        background-color: green;
+        border-radius: 50%;
+        color: white;
+        font-size: 15px;
+        text-align: center;
+        position: absolute;
+      }
+      #hud
+      {
+         left: 120px;
+        z-index: 100;
+      }
+      #abc
+      {
+        background-color: red;
+         left: 100
+           px;
+        z-index: 50;
+      }
+    color: #111; 
+    font-family: sans serif;
+    padding: 2px 5px;
+
+h2
+{
+    color: #df1010;
+  
+    margin: 15px;
+    border-top: 1px solid black;
+    border-bottom: 3px dotted blue;
+    padding-left: 30px 20px 10px;
+    width: 300px;>
+} 
+
+body 
+{
+  background: url(https://static.vecteezy.com/system/resources/previews/001/058/368/original/ui-ux-design-concept-in-flat-style-vector.jpg);
+}
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
